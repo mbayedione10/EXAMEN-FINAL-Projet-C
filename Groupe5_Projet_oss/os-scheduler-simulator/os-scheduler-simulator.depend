@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1536604962 source:c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\oss-simulator-input\mylibrary\thread.c
+	<stdlib.h>
+	"utils.h"
+	"thread.h"
+	"processus.h"
+
+1536325298 c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\oss-simulator-input\mylibrary\utils.h
+	"redefs.h"
+
+1536612192 c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\oss-simulator-input\mylibrary\redefs.h
+	<stdio.h>
+	<string.h>
+
+1536598786 c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\oss-simulator-input\mylibrary\thread.h
+	"redefs.h"
+
+1536595468 c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\oss-simulator-input\mylibrary\processus.h
+	"Thread.h"
+
+1536611924 source:c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\oss-simulator-input\mylibrary\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+	"processus.h"
+
+1536603866 source:c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\oss-simulator-input\os-scheduler-simulator\main.c
+	"../myLibrary/utils.h"
+	"../myLibrary/processus.h"
+
+1536610304 source:c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\oss-simulator-input\mylibrary\processus.c
+	"processus.h"
+	"utils.h"
+	<stdlib.h>
+	<stdio.h>
+
+1536610303 source:c:\users\tiger\desktop\oss-simulator-input\mylibrary\processus.c
+	"processus.h"
+	"utils.h"
+	<stdlib.h>
+	<stdio.h>
+
+1536595468 c:\users\tiger\desktop\oss-simulator-input\mylibrary\processus.h
+	"Thread.h"
+
+1536598786 c:\users\tiger\desktop\oss-simulator-input\mylibrary\thread.h
+	"redefs.h"
+
+1536605361 c:\users\tiger\desktop\oss-simulator-input\mylibrary\redefs.h
+	<stdio.h>
+	<string.h>
+
+1536325298 c:\users\tiger\desktop\oss-simulator-input\mylibrary\utils.h
+	"redefs.h"
+
+1536604962 source:c:\users\tiger\desktop\oss-simulator-input\mylibrary\thread.c
+	<stdlib.h>
+	"utils.h"
+	"thread.h"
+	"processus.h"
+
+1536610316 source:c:\users\tiger\desktop\oss-simulator-input\mylibrary\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+	"processus.h"
+
+1536603866 source:c:\users\tiger\desktop\oss-simulator-input\os-scheduler-simulator\main.c
+	"../myLibrary/utils.h"
+	"../myLibrary/processus.h"
+
+1536610304 source:c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\groupe5_projet_oss\mylibrary\processus.c
+	"processus.h"
+	"utils.h"
+	<stdlib.h>
+	<stdio.h>
+
+1536595468 c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\groupe5_projet_oss\mylibrary\processus.h
+	"Thread.h"
+
+1536598786 c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\groupe5_projet_oss\mylibrary\thread.h
+	"redefs.h"
+
+1537287611 c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\groupe5_projet_oss\mylibrary\redefs.h
+	<stdio.h>
+	<string.h>
+
+1536325298 c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\groupe5_projet_oss\mylibrary\utils.h
+	"redefs.h"
+
+1536604962 source:c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\groupe5_projet_oss\mylibrary\thread.c
+	<stdlib.h>
+	"utils.h"
+	"thread.h"
+	"processus.h"
+
+1536611924 source:c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\groupe5_projet_oss\mylibrary\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+	"processus.h"
+
+1536603866 source:c:\users\mamadoumbaye\desktop\ig it\langage c\mes projets c\examen final projet c\groupe5_projet_oss\os-scheduler-simulator\main.c
+	"../myLibrary/utils.h"
+	"../myLibrary/processus.h"
+
